@@ -1,0 +1,23 @@
+.subtitle {
+  background-color: blanchedalmond;
+}
+
+.description {
+  background-color: brown;
+}
+
+h2 {
+  border-block: 10px dotted rgb(67, 184, 219);
+}
+
+body {
+  background-color: darksalmon;
+}
+
+p {
+  background-color: darkgrey;
+}
+
+#button {
+  border-color: gold;
+}
